@@ -1,4 +1,4 @@
-#
+<pre>
 ▬▬▬.◙.▬▬▬
 ═▂▄▄▓▄▄▂
 ◢◤ █▀▀████▄▄▄▄◢◤
@@ -12,6 +12,7 @@
 ╬═╬☻/
 ╬═╬/▌
 ╬═╬/ \
+</pre>
 
 > ⚠️ Uso de má fé é de suma sua responsabilidade. Tutorial apenas para afins educativos.
 #
